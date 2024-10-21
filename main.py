@@ -58,7 +58,7 @@ async def loot_spliter(ctx, valor_externo: float, *dados_str):
         await ctx.send(f"Resultados:\n{resultado}")
     
     except ValueError:
-        await ctx.send("Erro: Certifique-se de que os valores estão no formato correto: nome,valor")
+        await ctx.send("Erro: Certifique-se de que os valores estão no formato correto: nome-valor")
 
 # Rodar o bot
 bot.run(TOKEN)
