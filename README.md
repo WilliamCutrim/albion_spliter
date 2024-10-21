@@ -28,7 +28,7 @@ Dentro da pasta do projeto, crie um ambiente virtual e o ative:
 - **Windows**:
   ```bash
   python -m venv venv
-  .env\Scriptsctivate
+  .env\Scripts\activate
   ```
 
 - **Linux/macOS**:
@@ -107,6 +107,6 @@ Sinta-se à vontade para contribuir com melhorias para o projeto. Para contribui
 4. Faça push para a branch (`git push origin featue/NovaFeature`).
 5. Abra um Pull Request.
 
-## Licençar
+## Licença
 
 Este projeto não possui uma licença específica no momento.
